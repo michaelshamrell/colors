@@ -13,4 +13,9 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("original-background");
   });
+
+  $("button#text-highlight").click(function() {
+    $("p").removeClass();
+    $("p").addClass("highlight");
+  });
 });
