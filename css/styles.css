@@ -1,0 +1,24 @@
+.black-background {
+  background-color: black;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.original-background {
+  background-color: red;
+}
+
+#white {
+  background-color: white;
+}
+
+#black {
+  background-color: black;
+}
+
+#original {
+  background-color: red;
+}
+
